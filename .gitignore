@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+precut/*
+staging/*
+
 # Distribution / packaging
 .Python
 build/
