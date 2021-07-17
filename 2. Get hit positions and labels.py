@@ -163,7 +163,7 @@ def label_video(vid_id):
                 print("Can't receive frame (stream end?). Exiting ...")
                 break
 
-            cv.imshow('frame', frame)
+            # cv.imshow('frame', frame)
             if check_for_score(frame) != 'neither':
 
                 # label the last clip now we've got a new light
