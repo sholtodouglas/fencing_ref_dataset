@@ -8,6 +8,7 @@ __pycache__/
 
 precut/*
 staging/*
+tests/*
 
 # Distribution / packaging
 .Python
